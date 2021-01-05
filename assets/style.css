@@ -386,7 +386,7 @@ main {
   }
 
   .span {
-    font-size: 0.5em;
+    font-size: 0.4em;
   }
   .section-2 {
     margin-bottom: 75px;
@@ -411,5 +411,8 @@ main {
 
   .section-4 {
     margin-top: 100px;
+  }
+  .section-4-content {
+    padding-right: 0px;
   }
 }
